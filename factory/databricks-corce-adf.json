@@ -1,0 +1,9 @@
+{
+	"name": "databricks-corce-adf",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5177c4d7-85c3-490e-8272-9ed139583c6d",
+		"tenantId": "1b70a6d4-73d5-41c5-995c-66a3feee7c25"
+	}
+}
